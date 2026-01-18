@@ -1,0 +1,2 @@
+# Mobility-Pattern-Mining-Modelling-Spatial-and-Temporal-Movement
+Mobility patterns play a crucial role in our daily lives and significantly impact various aspects of society, such as transportation, public health, and urban planning. This project focuses on modeling spatial and temporal movement using data science techniques to gain insights into mobility patterns and inform decision-making in various domains.
